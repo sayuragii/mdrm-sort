@@ -18,7 +18,11 @@ dataSet[dataSetVersion].options = [
     key: "sector",
     tooltip: "Check this to restrict to certain sectors of the Associations.",
     checked: false,
-    sub: [ { name: "North", key: "north" }, { name: "East", key: "east" }, { name: "South", key: "south" }, { name: "West", key: "west" },
+    sub: [
+	  { name: "North", key: "north" }, 
+	  { name: "East", key: "east" }, 
+	  { name: "South", key: "south" }, 
+	  { name: "West", key: "west" },
     ]
   }
 ];
