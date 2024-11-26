@@ -1,5 +1,5 @@
 dataSetVersion = "2024-11-25"; // Change this when creating a new data set version. YYYY-MM-DD format.
-dataSet[dataSetVersion] = {2024-11-25};
+dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
