@@ -65,23 +65,7 @@ dataSet[dataSetVersion].characterData = [
   }
 },
 {
-  name: "Petra Iglesias",
-  img: "petra.png",
-  opts: {
-    branch: ["wing"],
-	sector: [],
-  }
-},
-{
-  name: "Anya Dochenko",
-  img: "anya.png",
-  opts: {
-    branch: ["assoc"],
-	sector: ["north"],
-  }
-},
-{
-  name: "Kang Ha-neul",
+  name: "Kang Haneul",
   img: "haneul.png",
   opts: {
     branch: ["assoc"],
@@ -150,6 +134,22 @@ dataSet[dataSetVersion].characterData = [
   opts: {
     branch: ["alum"],
 	sector: [],
+  }
+},
+{
+  name: "Petra Iglesias",
+  img: "petra.png",
+  opts: {
+    branch: ["wing"],
+	sector: [],
+  }
+},
+{
+  name: "Anya Dochenko",
+  img: "anya.png",
+  opts: {
+    branch: ["assoc"],
+	sector: ["north"],
   }
 }
 ];
