@@ -66,7 +66,7 @@ dataSet[dataSetVersion].characterData = [
 },
 {
   name: "Kang Haneul",
-  img: "haneul.png",
+  img: "haneul2.png",
   opts: {
     branch: ["assoc"],
     sector: ["south"],
