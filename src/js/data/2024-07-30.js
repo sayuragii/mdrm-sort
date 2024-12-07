@@ -90,7 +90,7 @@ dataSet[dataSetVersion].characterData = [
 },
 {
   name: "Camille Allard",
-  img: "camille.png",
+  img: "camille2.png",
   opts: {
     branch: ["assoc"],
     sector: ["south"],
