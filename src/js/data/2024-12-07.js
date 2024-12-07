@@ -167,5 +167,5 @@ dataSet[dataSetVersion].characterData = [
     branch: ["assoc"],
 	sector: ["west"],
   }
-},
+}
 ];
